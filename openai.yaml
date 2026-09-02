@@ -1,0 +1,4 @@
+interface:
+  display_name: "保毕业科研规划 v2"
+  short_description: "跨专业文献审计、现实条件核验与保毕业科研路线规划助手"
+  default_prompt: "使用 $cross-disciplinary-graduation-research-planner-v2 审核我的课题条件，并给出保毕业优先的主线、MVP 和 Plan B/C。"
